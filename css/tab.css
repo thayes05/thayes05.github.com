@@ -1,0 +1,85 @@
+body{
+    background-color: cornsilk;
+}
+.common{
+    border: 2px solid white;
+    position: absolute;
+    Font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.header{
+    top: 5px;
+    left:5px;
+    right: 5px;
+    height: 105px;
+    z-index: 2;
+    border-color: cornsilk;
+    border-bottom: solid 3px #555555;
+}
+
+.leftmenu{
+    top: 114px;
+    left: 5px;
+    width: 100px;
+    bottom: 39px;
+    z-index: 1;
+    padding-top: 10px;
+    border-color: cornsilk;
+    border-right: solid 3px #555555;
+}
+
+.mainbody{
+    top: 114px;
+    left: 114px;
+    right: 114px;
+    bottom: absolute;
+    padding-right: 5px;
+    border-color: cornsilk;
+}
+
+
+.footer{
+    left: 5px;
+    right: 5px;
+    height: 25px; 
+    bottom: 5px;
+    font-size: 8px;
+    color: #999999;
+    text-align: center;
+    padding-top: 15px;
+    position: fixed;
+}
+
+
+.Resume{
+    font-weight: bold;
+    font-size: large;
+    float: right
+}
+
+.title{color:darkred}
+
+.trumpet{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+
+.moveimage{
+    position: absolute;
+    top: 5px;
+    left: 400px;
+}
+.videotext{
+    font-size: larger;
+    font-weight: bolder;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.video{
+    
+    left: 400px;
+}
+
+.subtitles{
+    color: darkred;
+    font-weight: bolder;
+}
